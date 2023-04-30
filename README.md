@@ -30,9 +30,9 @@
 
 **Dashboard Project** is a personal project to showcase my skills and works
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With < name="built-with"
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack < name="tech-stack"
 
 
 
