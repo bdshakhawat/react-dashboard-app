@@ -1,5 +1,5 @@
 
-# React Dashboard App
+# Sales Report Portal
 
 
 
@@ -23,19 +23,19 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 📖 Sales Report Portal
 
 
-# 📖 React Dashboard App 
-
-
-**Dashboard Project** is a personal project to showcase my skills and works
+**Sales Report Portal** is a report audit and analysis with and interactive dashboard.
 
 ## 🛠 Built With < name="built-with"
 
 ### Tech Stack < name="tech-stack"
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features 
 
@@ -63,7 +63,7 @@ In order to run this project you need:
     Internet connection
     A code editor like Visual Studio Code
   
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Setup
 
 Clone this repository to your desired folder:
@@ -94,7 +94,7 @@ Test case will be added soon.
 
 Deployment instruction will be added soon.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -120,7 +120,7 @@ Deployment instruction will be added soon.
 
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -144,7 +144,7 @@ If you like this project please send a welcome message on Twitter and let's have
 
 I would like to thank my wife, who always inspires me to be a better software engineer. Also thanks to Microverse for awesome support.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
