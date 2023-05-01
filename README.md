@@ -1,4 +1,3 @@
-
 # Sales Report Portal
 
 
@@ -99,8 +98,7 @@ Deployment instruction will be added soon.
 
 
 
-## 👥 Authors <a name="authors"></a>
-
+## 👥 Authors
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
@@ -122,7 +120,7 @@ Deployment instruction will be added soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing 
 
 Contributions, issues, and feature requests are welcome!
 
@@ -132,7 +130,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support 
 
 If you like this project please send a welcome message on Twitter and let's have a chat to share coding knowledge.
 
@@ -140,14 +138,20 @@ If you like this project please send a welcome message on Twitter and let's have
 
 
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments 
 
 I would like to thank my wife, who always inspires me to be a better software engineer. Also thanks to Microverse for awesome support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
 
+
+
+
+
+
+>>>>>>> 8a4f79c9b02340e23e702dfb9f1bbb46349d5495

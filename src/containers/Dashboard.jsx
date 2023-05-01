@@ -4,7 +4,7 @@ import LatestVideoCard from "../components/LatestVideoCard";
 
 function Dashboard() {
     return <Box>
-        <Typography sx={styles.pageTitle} variant="h5">Channel Dashboard</Typography>
+        <Typography sx={styles.pageTitle} variant="h5">Sumon's Dashboard</Typography>
         <Box sx={styles.columnsContainer}>
 
             <LatestVideoCard sx={styles.item} />
@@ -12,8 +12,8 @@ function Dashboard() {
                 <CardContent>
                     <Typography variant="cardTitle">Latest post</Typography>
                     <Box sx={styles.postAuthorSection}>
-                        <Avatar sx={styles.avatar} alt="Masoud" src="src/assets/avatars/masoud.jpeg" />
-                        <Typography sx={styles.postMeta}>React with Masoud</Typography>
+                        <Avatar sx={styles.avatar} alt="Sumon" src="src/assets/avatars/sumon.png" />
+                        <Typography sx={styles.postMeta}>React with Sumon</Typography>
                         <Typography sx={styles.postMeta}>Jan 19, 2023</Typography>
                     </Box>
                     <Typography variant="body2">I asked chatGPT to tell me a joke about react js, he is not only smart but also funny :)) we are going to have a video about it tomorrow.</Typography>

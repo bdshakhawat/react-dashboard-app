@@ -16,9 +16,9 @@ function SideNav() {
 
     >
         <Box sx={styles.avatarContainer}>
-            <Avatar sx={styles.avatar} alt="Masoud" src="src/assets/avatars/masoud.jpeg" />
+            <Avatar sx={styles.avatar} alt="Shakhawat" src="src/assets/avatars/sumon.png" />
             {!collapsed ? <Typography variant="body2" sx={styles.yourChannel}>Your Channel</Typography> : null}
-            {!collapsed ? <Typography variant="overline">React with Masoud</Typography> : null}
+            {!collapsed ? <Typography variant="overline">React with Sumon</Typography> : null}
         </Box>
 
         <Menu
